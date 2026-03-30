@@ -1,0 +1,14 @@
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-1\lista1\ex6\bin\Debug\net10.0\ex6.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-1\lista1\ex6\bin\Debug\net10.0\ex6.deps.json
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-1\lista1\ex6\bin\Debug\net10.0\ex6.runtimeconfig.json
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-1\lista1\ex6\bin\Debug\net10.0\ex6.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-1\lista1\ex6\bin\Debug\net10.0\ex6.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-1\lista1\ex6\obj\Debug\net10.0\ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-1\lista1\ex6\obj\Debug\net10.0\ex6.AssemblyInfoInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-1\lista1\ex6\obj\Debug\net10.0\ex6.AssemblyInfo.cs
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-1\lista1\ex6\obj\Debug\net10.0\ex6.csproj.CoreCompileInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-1\lista1\ex6\obj\Debug\net10.0\ex6.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-1\lista1\ex6\obj\Debug\net10.0\refint\ex6.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-1\lista1\ex6\obj\Debug\net10.0\ex6.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-1\lista1\ex6\obj\Debug\net10.0\ex6.genruntimeconfig.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-1\lista1\ex6\obj\Debug\net10.0\ref\ex6.dll

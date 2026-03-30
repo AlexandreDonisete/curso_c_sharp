@@ -1,0 +1,14 @@
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-condicional\ex1\ex2\bin\Debug\net10.0\ex2.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-condicional\ex1\ex2\bin\Debug\net10.0\ex2.deps.json
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-condicional\ex1\ex2\bin\Debug\net10.0\ex2.runtimeconfig.json
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-condicional\ex1\ex2\bin\Debug\net10.0\ex2.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-condicional\ex1\ex2\bin\Debug\net10.0\ex2.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-condicional\ex1\ex2\obj\Debug\net10.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-condicional\ex1\ex2\obj\Debug\net10.0\ex2.AssemblyInfoInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-condicional\ex1\ex2\obj\Debug\net10.0\ex2.AssemblyInfo.cs
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-condicional\ex1\ex2\obj\Debug\net10.0\ex2.csproj.CoreCompileInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-condicional\ex1\ex2\obj\Debug\net10.0\ex2.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-condicional\ex1\ex2\obj\Debug\net10.0\refint\ex2.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-condicional\ex1\ex2\obj\Debug\net10.0\ex2.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-condicional\ex1\ex2\obj\Debug\net10.0\ex2.genruntimeconfig.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\lista-condicional\ex1\ex2\obj\Debug\net10.0\ref\ex2.dll

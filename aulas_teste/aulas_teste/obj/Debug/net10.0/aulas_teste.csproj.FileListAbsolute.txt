@@ -1,0 +1,28 @@
+C:\Users\xanda\OneDrive\Área de Trabalho\Projetos C#\aulas_teste\aulas_teste\bin\Debug\net10.0\aulas_teste.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Projetos C#\aulas_teste\aulas_teste\bin\Debug\net10.0\aulas_teste.deps.json
+C:\Users\xanda\OneDrive\Área de Trabalho\Projetos C#\aulas_teste\aulas_teste\bin\Debug\net10.0\aulas_teste.runtimeconfig.json
+C:\Users\xanda\OneDrive\Área de Trabalho\Projetos C#\aulas_teste\aulas_teste\bin\Debug\net10.0\aulas_teste.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Projetos C#\aulas_teste\aulas_teste\bin\Debug\net10.0\aulas_teste.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\aulas_teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xanda\OneDrive\Área de Trabalho\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\aulas_teste.AssemblyInfoInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\aulas_teste.AssemblyInfo.cs
+C:\Users\xanda\OneDrive\Área de Trabalho\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\aulas_teste.csproj.CoreCompileInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\aulas_teste.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\refint\aulas_teste.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\aulas_teste.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\aulas_teste.genruntimeconfig.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\ref\aulas_teste.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\aulas_teste\aulas_teste\bin\Debug\net10.0\aulas_teste.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\aulas_teste\aulas_teste\bin\Debug\net10.0\aulas_teste.deps.json
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\aulas_teste\aulas_teste\bin\Debug\net10.0\aulas_teste.runtimeconfig.json
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\aulas_teste\aulas_teste\bin\Debug\net10.0\aulas_teste.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\aulas_teste\aulas_teste\bin\Debug\net10.0\aulas_teste.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\aulas_teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\aulas_teste.AssemblyInfoInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\aulas_teste.AssemblyInfo.cs
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\aulas_teste.csproj.CoreCompileInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\aulas_teste.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\refint\aulas_teste.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\aulas_teste.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\aulas_teste.genruntimeconfig.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\aulas_teste\aulas_teste\obj\Debug\net10.0\ref\aulas_teste.dll
