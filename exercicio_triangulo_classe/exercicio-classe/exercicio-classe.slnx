@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ClasseEstatica/ClasseEstatica.csproj" Id="97ed91f2-94dc-4d02-b8c2-558d57bd81b6" />
+  <Project Path="exercicio-classe/exercicio-classe.csproj" />
+  <Project Path="ExercicioConta/ExercicioConta.csproj" Id="a3dcc9e1-cec9-432b-94e0-49568654547f" />
+  <Project Path="ExercicioPessoa/ExercicioPessoa.csproj" Id="4e1cf5e9-b7ff-4cdb-924d-fe278c79b682" />
+  <Project Path="ExercicioRetangulo/ExercicioRetangulo.csproj" Id="2cff8d6a-09f0-43aa-bf60-7a229748ef23" />
+</Solution>

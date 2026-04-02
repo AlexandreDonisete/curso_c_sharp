@@ -1,0 +1,15 @@
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\exercicio_triangulo_classe\exercicio-classe\exercicio-classe\bin\Debug\net10.0\exercicio-classe.exe
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\exercicio_triangulo_classe\exercicio-classe\exercicio-classe\bin\Debug\net10.0\exercicio-classe.deps.json
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\exercicio_triangulo_classe\exercicio-classe\exercicio-classe\bin\Debug\net10.0\exercicio-classe.runtimeconfig.json
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\exercicio_triangulo_classe\exercicio-classe\exercicio-classe\bin\Debug\net10.0\exercicio-classe.dll
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\exercicio_triangulo_classe\exercicio-classe\exercicio-classe\bin\Debug\net10.0\exercicio-classe.pdb
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\exercicio_triangulo_classe\exercicio-classe\exercicio-classe\obj\Debug\net10.0\exercicio-classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\exercicio_triangulo_classe\exercicio-classe\exercicio-classe\obj\Debug\net10.0\exercicio-classe.AssemblyInfoInputs.cache
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\exercicio_triangulo_classe\exercicio-classe\exercicio-classe\obj\Debug\net10.0\exercicio-classe.AssemblyInfo.cs
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\exercicio_triangulo_classe\exercicio-classe\exercicio-classe\obj\Debug\net10.0\exercicio-classe.csproj.CoreCompileInputs.cache
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\exercicio_triangulo_classe\exercicio-classe\exercicio-classe\obj\Debug\net10.0\exercicio-classe.sourcelink.json
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\exercicio_triangulo_classe\exercicio-classe\exercicio-classe\obj\Debug\net10.0\exercicio-classe.dll
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\exercicio_triangulo_classe\exercicio-classe\exercicio-classe\obj\Debug\net10.0\refint\exercicio-classe.dll
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\exercicio_triangulo_classe\exercicio-classe\exercicio-classe\obj\Debug\net10.0\exercicio-classe.pdb
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\exercicio_triangulo_classe\exercicio-classe\exercicio-classe\obj\Debug\net10.0\exercicio-classe.genruntimeconfig.cache
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\exercicio_triangulo_classe\exercicio-classe\exercicio-classe\obj\Debug\net10.0\ref\exercicio-classe.dll

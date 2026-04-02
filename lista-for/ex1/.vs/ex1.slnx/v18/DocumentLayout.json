@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\xanda\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\Projetos C#\\lista-for\\ex1\\",
+  "WorkspaceRootPath": "C:\\Users\\alexandredbf\\OneDrive - Junto Seguros\\\u00C1rea de Trabalho\\Curso C#\\curso_c_sharp\\lista-for\\ex1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{757BBB89-78DE-4495-A7F7-7B31F097A33C}|ex1\\ex1.csproj|c:\\users\\xanda\\onedrive\\\u00E1rea de trabalho\\curso c#\\projetos c#\\lista-for\\ex1\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{757BBB89-78DE-4495-A7F7-7B31F097A33C}|ex1\\ex1.csproj|solutionrelative:ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{775F00EC-4661-4858-AD65-F5DE308D22DA}|ex6\\ex6.csproj|c:\\users\\alexandredbf\\onedrive - junto seguros\\\u00E1rea de trabalho\\curso c#\\curso_c_sharp\\lista-for\\ex1\\ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775F00EC-4661-4858-AD65-F5DE308D22DA}|ex6\\ex6.csproj|solutionrelative:ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1A50ED-C01F-4DB9-91A7-1DB23F81E18F}|ex5\\ex5.csproj|c:\\users\\alexandredbf\\onedrive - junto seguros\\\u00E1rea de trabalho\\curso c#\\curso_c_sharp\\lista-for\\ex1\\ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1A50ED-C01F-4DB9-91A7-1DB23F81E18F}|ex5\\ex5.csproj|solutionrelative:ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,18 +24,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\xanda\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\Projetos C#\\lista-for\\ex1\\ex1\\Program.cs",
-              "RelativeDocumentMoniker": "ex1\\Program.cs",
-              "ToolTip": "C:\\Users\\xanda\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\Projetos C#\\lista-for\\ex1\\ex1\\Program.cs",
-              "RelativeToolTip": "ex1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\alexandredbf\\OneDrive - Junto Seguros\\\u00C1rea de Trabalho\\Curso C#\\curso_c_sharp\\lista-for\\ex1\\ex6\\Program.cs",
+              "RelativeDocumentMoniker": "ex6\\Program.cs",
+              "ToolTip": "C:\\Users\\alexandredbf\\OneDrive - Junto Seguros\\\u00C1rea de Trabalho\\Curso C#\\curso_c_sharp\\lista-for\\ex1\\ex6\\Program.cs",
+              "RelativeToolTip": "ex6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T18:55:42.311Z",
+              "WhenOpened": "2026-03-30T18:42:42.312Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexandredbf\\OneDrive - Junto Seguros\\\u00C1rea de Trabalho\\Curso C#\\curso_c_sharp\\lista-for\\ex1\\ex5\\Program.cs",
+              "RelativeDocumentMoniker": "ex5\\Program.cs",
+              "ToolTip": "C:\\Users\\alexandredbf\\OneDrive - Junto Seguros\\\u00C1rea de Trabalho\\Curso C#\\curso_c_sharp\\lista-for\\ex1\\ex5\\Program.cs",
+              "RelativeToolTip": "ex5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:37:39.742Z",
+              "EditorCaption": ""
             }
           ]
         }
