@@ -1,0 +1,15 @@
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\ExercicioPensionato\ExercicioPensionato\bin\Debug\net10.0\ExercicioPensionato.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\ExercicioPensionato\ExercicioPensionato\bin\Debug\net10.0\ExercicioPensionato.deps.json
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\ExercicioPensionato\ExercicioPensionato\bin\Debug\net10.0\ExercicioPensionato.runtimeconfig.json
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\ExercicioPensionato\ExercicioPensionato\bin\Debug\net10.0\ExercicioPensionato.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\ExercicioPensionato\ExercicioPensionato\bin\Debug\net10.0\ExercicioPensionato.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\ExercicioPensionato\ExercicioPensionato\obj\Debug\net10.0\ExercicioPensionato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\ExercicioPensionato\ExercicioPensionato\obj\Debug\net10.0\ExercicioPensionato.AssemblyInfoInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\ExercicioPensionato\ExercicioPensionato\obj\Debug\net10.0\ExercicioPensionato.AssemblyInfo.cs
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\ExercicioPensionato\ExercicioPensionato\obj\Debug\net10.0\ExercicioPensionato.csproj.CoreCompileInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\ExercicioPensionato\ExercicioPensionato\obj\Debug\net10.0\ExercicioPensionato.sourcelink.json
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\ExercicioPensionato\ExercicioPensionato\obj\Debug\net10.0\ExercicioPensionato.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\ExercicioPensionato\ExercicioPensionato\obj\Debug\net10.0\refint\ExercicioPensionato.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\ExercicioPensionato\ExercicioPensionato\obj\Debug\net10.0\ExercicioPensionato.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\ExercicioPensionato\ExercicioPensionato\obj\Debug\net10.0\ExercicioPensionato.genruntimeconfig.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\ExercicioPensionato\ExercicioPensionato\obj\Debug\net10.0\ref\ExercicioPensionato.dll

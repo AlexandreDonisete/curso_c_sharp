@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HSe+0RNf45g=",
+  "dgSpecHash": "n3dlsH1JgbM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexandredbf\\OneDrive - Junto Seguros\\Área de Trabalho\\Curso C#\\curso_c_sharp\\exercicio_triangulo_classe\\Teste\\Teste.API\\Teste.API.csproj",
+  "projectFilePath": "C:\\Users\\xanda\\OneDrive\\Área de Trabalho\\Curso C#\\Projetos C#\\exercicio_triangulo_classe\\Teste\\Teste.API\\Teste.API.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alexandredbf\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
-    "C:\\Users\\alexandredbf\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\xanda\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\xanda\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\VetorP2\VetorP2\bin\Debug\net10.0\VetorP2.exe
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\VetorP2\VetorP2\bin\Debug\net10.0\VetorP2.deps.json
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\VetorP2\VetorP2\bin\Debug\net10.0\VetorP2.runtimeconfig.json
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\VetorP2\VetorP2\bin\Debug\net10.0\VetorP2.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\VetorP2\VetorP2\bin\Debug\net10.0\VetorP2.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\VetorP2\VetorP2\obj\Debug\net10.0\VetorP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\VetorP2\VetorP2\obj\Debug\net10.0\VetorP2.AssemblyInfoInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\VetorP2\VetorP2\obj\Debug\net10.0\VetorP2.AssemblyInfo.cs
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\VetorP2\VetorP2\obj\Debug\net10.0\VetorP2.csproj.CoreCompileInputs.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\VetorP2\VetorP2\obj\Debug\net10.0\VetorP2.sourcelink.json
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\VetorP2\VetorP2\obj\Debug\net10.0\VetorP2.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\VetorP2\VetorP2\obj\Debug\net10.0\refint\VetorP2.dll
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\VetorP2\VetorP2\obj\Debug\net10.0\VetorP2.pdb
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\VetorP2\VetorP2\obj\Debug\net10.0\VetorP2.genruntimeconfig.cache
+C:\Users\xanda\OneDrive\Área de Trabalho\Curso C#\Projetos C#\vetor-p2\VetorP2\VetorP2\obj\Debug\net10.0\ref\VetorP2.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xanda\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\Projetos C#\\vetor-p2\\VetorP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFE30B0-C22C-4F83-92A2-8D64DD7A3033}|VetorP2\\VetorP2.csproj|c:\\users\\xanda\\onedrive\\\u00E1rea de trabalho\\curso c#\\projetos c#\\vetor-p2\\vetorp2\\vetorp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFE30B0-C22C-4F83-92A2-8D64DD7A3033}|VetorP2\\VetorP2.csproj|solutionrelative:vetorp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFE30B0-C22C-4F83-92A2-8D64DD7A3033}|VetorP2\\VetorP2.csproj|c:\\users\\xanda\\onedrive\\\u00E1rea de trabalho\\curso c#\\projetos c#\\vetor-p2\\vetorp2\\vetorp2\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFE30B0-C22C-4F83-92A2-8D64DD7A3033}|VetorP2\\VetorP2.csproj|solutionrelative:vetorp2\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\xanda\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\Projetos C#\\vetor-p2\\VetorP2\\VetorP2\\Produto.cs",
+              "RelativeDocumentMoniker": "VetorP2\\Produto.cs",
+              "ToolTip": "C:\\Users\\xanda\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\Projetos C#\\vetor-p2\\VetorP2\\VetorP2\\Produto.cs",
+              "RelativeToolTip": "VetorP2\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T17:16:39.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xanda\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\Projetos C#\\vetor-p2\\VetorP2\\VetorP2\\Program.cs",
+              "RelativeDocumentMoniker": "VetorP2\\Program.cs",
+              "ToolTip": "C:\\Users\\xanda\\OneDrive\\\u00C1rea de Trabalho\\Curso C#\\Projetos C#\\vetor-p2\\VetorP2\\VetorP2\\Program.cs",
+              "RelativeToolTip": "VetorP2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T17:16:14.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
