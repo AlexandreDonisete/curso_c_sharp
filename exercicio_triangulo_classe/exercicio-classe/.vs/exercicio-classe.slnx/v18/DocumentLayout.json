@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\alexandredbf\\OneDrive - Junto Seguros\\\u00C1rea de Trabalho\\Curso C#\\curso_c_sharp\\exercicio_triangulo_classe\\exercicio-classe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3DCC9E1-CEC9-432B-94E0-49568654547F}|ExercicioConta\\ExercicioConta.csproj|c:\\users\\alexandredbf\\onedrive - junto seguros\\\u00E1rea de trabalho\\curso c#\\curso_c_sharp\\exercicio_triangulo_classe\\exercicio-classe\\exercicioconta\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3DCC9E1-CEC9-432B-94E0-49568654547F}|ExercicioConta\\ExercicioConta.csproj|solutionrelative:exercicioconta\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3DCC9E1-CEC9-432B-94E0-49568654547F}|ExercicioConta\\ExercicioConta.csproj|c:\\users\\alexandredbf\\onedrive - junto seguros\\\u00E1rea de trabalho\\curso c#\\curso_c_sharp\\exercicio_triangulo_classe\\exercicio-classe\\exercicioconta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3DCC9E1-CEC9-432B-94E0-49568654547F}|ExercicioConta\\ExercicioConta.csproj|solutionrelative:exercicioconta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97ED91F2-94DC-4D02-B8C2-558D57BD81B6}|ClasseEstatica\\ClasseEstatica.csproj|c:\\users\\alexandredbf\\onedrive - junto seguros\\\u00E1rea de trabalho\\curso c#\\curso_c_sharp\\exercicio_triangulo_classe\\exercicio-classe\\classeestatica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97ED91F2-94DC-4D02-B8C2-558D57BD81B6}|ClasseEstatica\\ClasseEstatica.csproj|solutionrelative:classeestatica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97ED91F2-94DC-4D02-B8C2-558D57BD81B6}|ClasseEstatica\\ClasseEstatica.csproj|c:\\users\\alexandredbf\\onedrive - junto seguros\\\u00E1rea de trabalho\\curso c#\\curso_c_sharp\\exercicio_triangulo_classe\\exercicio-classe\\classeestatica\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97ED91F2-94DC-4D02-B8C2-558D57BD81B6}|ClasseEstatica\\ClasseEstatica.csproj|solutionrelative:classeestatica\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,52 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ContaBancaria.cs",
-              "DocumentMoniker": "C:\\Users\\alexandredbf\\OneDrive - Junto Seguros\\\u00C1rea de Trabalho\\Curso C#\\curso_c_sharp\\exercicio_triangulo_classe\\exercicio-classe\\ExercicioConta\\ContaBancaria.cs",
-              "RelativeDocumentMoniker": "ExercicioConta\\ContaBancaria.cs",
-              "ToolTip": "C:\\Users\\alexandredbf\\OneDrive - Junto Seguros\\\u00C1rea de Trabalho\\Curso C#\\curso_c_sharp\\exercicio_triangulo_classe\\exercicio-classe\\ExercicioConta\\ContaBancaria.cs",
-              "RelativeToolTip": "ExercicioConta\\ContaBancaria.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwB0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T16:16:48.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alexandredbf\\OneDrive - Junto Seguros\\\u00C1rea de Trabalho\\Curso C#\\curso_c_sharp\\exercicio_triangulo_classe\\exercicio-classe\\ExercicioConta\\Program.cs",
               "RelativeDocumentMoniker": "ExercicioConta\\Program.cs",
               "ToolTip": "C:\\Users\\alexandredbf\\OneDrive - Junto Seguros\\\u00C1rea de Trabalho\\Curso C#\\curso_c_sharp\\exercicio_triangulo_classe\\exercicio-classe\\ExercicioConta\\Program.cs",
               "RelativeToolTip": "ExercicioConta\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T16:16:32.528Z",
+              "WhenOpened": "2026-04-07T12:05:12.975Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConversorDeMoeda.cs",
-              "DocumentMoniker": "C:\\Users\\alexandredbf\\OneDrive - Junto Seguros\\\u00C1rea de Trabalho\\Curso C#\\curso_c_sharp\\exercicio_triangulo_classe\\exercicio-classe\\ClasseEstatica\\ConversorDeMoeda.cs",
-              "RelativeDocumentMoniker": "ClasseEstatica\\ConversorDeMoeda.cs",
-              "ToolTip": "C:\\Users\\alexandredbf\\OneDrive - Junto Seguros\\\u00C1rea de Trabalho\\Curso C#\\curso_c_sharp\\exercicio_triangulo_classe\\exercicio-classe\\ClasseEstatica\\ConversorDeMoeda.cs",
-              "RelativeToolTip": "ClasseEstatica\\ConversorDeMoeda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T13:45:13.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alexandredbf\\OneDrive - Junto Seguros\\\u00C1rea de Trabalho\\Curso C#\\curso_c_sharp\\exercicio_triangulo_classe\\exercicio-classe\\ClasseEstatica\\Program.cs",
-              "RelativeDocumentMoniker": "ClasseEstatica\\Program.cs",
-              "ToolTip": "C:\\Users\\alexandredbf\\OneDrive - Junto Seguros\\\u00C1rea de Trabalho\\Curso C#\\curso_c_sharp\\exercicio_triangulo_classe\\exercicio-classe\\ClasseEstatica\\Program.cs",
-              "RelativeToolTip": "ClasseEstatica\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T13:43:15.469Z"
             }
           ]
         }

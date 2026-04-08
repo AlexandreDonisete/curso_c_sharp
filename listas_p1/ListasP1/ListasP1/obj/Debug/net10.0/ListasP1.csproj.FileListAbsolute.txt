@@ -1,0 +1,15 @@
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\listas_p1\ListasP1\ListasP1\bin\Debug\net10.0\ListasP1.exe
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\listas_p1\ListasP1\ListasP1\bin\Debug\net10.0\ListasP1.deps.json
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\listas_p1\ListasP1\ListasP1\bin\Debug\net10.0\ListasP1.runtimeconfig.json
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\listas_p1\ListasP1\ListasP1\bin\Debug\net10.0\ListasP1.dll
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\listas_p1\ListasP1\ListasP1\bin\Debug\net10.0\ListasP1.pdb
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\listas_p1\ListasP1\ListasP1\obj\Debug\net10.0\ListasP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\listas_p1\ListasP1\ListasP1\obj\Debug\net10.0\ListasP1.AssemblyInfoInputs.cache
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\listas_p1\ListasP1\ListasP1\obj\Debug\net10.0\ListasP1.AssemblyInfo.cs
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\listas_p1\ListasP1\ListasP1\obj\Debug\net10.0\ListasP1.csproj.CoreCompileInputs.cache
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\listas_p1\ListasP1\ListasP1\obj\Debug\net10.0\ListasP1.sourcelink.json
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\listas_p1\ListasP1\ListasP1\obj\Debug\net10.0\ListasP1.dll
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\listas_p1\ListasP1\ListasP1\obj\Debug\net10.0\refint\ListasP1.dll
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\listas_p1\ListasP1\ListasP1\obj\Debug\net10.0\ListasP1.pdb
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\listas_p1\ListasP1\ListasP1\obj\Debug\net10.0\ListasP1.genruntimeconfig.cache
+C:\Users\alexandredbf\OneDrive - Junto Seguros\Área de Trabalho\Curso C#\curso_c_sharp\listas_p1\ListasP1\ListasP1\obj\Debug\net10.0\ref\ListasP1.dll

@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="ExercicioLista/ExercicioLista.csproj" />
+  <Project Path="ListasP1/ListasP1.csproj" />
+</Solution>

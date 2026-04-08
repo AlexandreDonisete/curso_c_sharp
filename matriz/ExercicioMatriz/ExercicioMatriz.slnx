@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ExercicioMatriz/ExercicioMatriz.csproj" />
+  <Project Path="ExercicioMatrizFixacao/ExercicioMatrizFixacao.csproj" />
+</Solution>
